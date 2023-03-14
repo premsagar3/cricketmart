@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-sm bg-primary">
+    <div class="container-fluid" style="align-items: center; display: flex;">
+      <img src="https://clipground.com/images/cricket-png-logo-10.png"  style="height: 60px;margin-left: 15px;">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <strong style="color: aliceblue; font-size: xx-large; margin-left: 100px;"> CRICKETMART</strong>
+            </li>
+            <li class="nav-item" style="font-weight: bold;">
+              <a class="nav-link active" aria-current="page" href="" style="margin-left: 230px; color: aliceblue;" routerLink="home">Home</a>
+            
+          </li>
+          
+          <li class="nav-item" style="font-weight: bold;">
+            <a class="nav-link active" aria-current="page"  style="color: aliceblue;" routerLink="login">Login</a>
+          </li>
+          
+        </ul>
+        <form class="d-flex" role="search" style="margin-right: 350px;">
+          <input class="form-control me-2" type="search" [(ngModel)]="searchterm" (keyup)="search($event)" placeholder="Search For Products" aria-label="Search" style="width:300px; margin-left: 50px;">
+          <i class="fas fa-search search-icon" style="display: flex; align-items: center; margin-left: -24px; "></i>
+          <button class="btn btn-outline-primary" type="submit" style="font-weight: bold;">Search </button>
+          <i style="font-size: 35px; color: aliceblue; "  class="fas fa-cart-plus" routerLink="cart"></i>   
+          <i class="badge bg-danger">{{totalitem}}</i>
+        </form>
+      </div>
+    </div>
+  </nav>
+

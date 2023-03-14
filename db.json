@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "SS Bat",
+      "price": "300$",
+      "image": "https://th.bing.com/th?id=OIP.EbQHTmJlnuXj1yuQO4HG2AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "description": "ss is a good compnay of the .",
+      "rating": 4.5,
+      "category": "cricket-Bat"
+    },
+    {
+      "title": "Leather-Ball",
+      "description": "it is a good leather ball company",
+      "rating": 4,
+      "price": "30$",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/511/294/original/cricket-ball-vector-illustration.jpg",
+      "category": "cricket-ball",
+      "id": 2
+    },
+    {
+      "title": "Helmet",
+      "description": "it is a good Helmet company",
+      "rating": 4.1,
+      "price": "60$",
+      "image": "https://www.khelmart.com/Cricket/zoomer_Image/SG_CH_000101_large.jpg",
+      "category": "cricket-helmet",
+      "id": 3
+    },
+    {
+      "title": "Gloves",
+      "description": "it is a good Glove company",
+      "rating": 4,
+      "price": "40$",
+      "image": "https://www.khelmart.com/Cricket/zoomer_Image/SS_BG_0009_large.jpg",
+      "category": "cricket-gloves",
+      "id": 4
+    },
+    {
+      "title": "Shoes",
+      "description": "it is a Shoes company",
+      "rating": 4.5,
+      "price": "100$",
+      "image": "https://shop.teamsg.in/wp-content/uploads/2021/05/ICON-2-1-scaled.jpg",
+      "category": "cricket-shoes",
+      "id": 5
+    },
+    {
+      "title": "Pad",
+      "description": "it is a good pad company",
+      "rating": 4,
+      "price": "30$",
+      "image": "https://cdn-5c84bc36-b681cbc1.mysagestore.com/b522fd52e101edc926c3308c230445d5/contents/3C12354/3C12354.jpg",
+      "category": "cricket-pads",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Leather-Ball",
+      "description": "Vector red leather realistic ball .",
+      "rating": 4,
+      "image": "https://media.istockphoto.com/id/177002009/photo/red-cricket-ball.jpg?s=612x612&w=is&k=20&c=0oroO0J8UeI2zZXpDtsw_jvxtDt5WS6qLE3UcVHLluw=",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 8,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://media.istockphoto.com/id/537500959/photo/cricket-ball-white.jpg?s=612x612&w=is&k=20&c=sTb6aU5tEQ8bF0qaF8rgj8Vq-e1_kfgQc5061fCYdug=",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 9,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://thumbs.dreamstime.com/b/old-ball-cricket-india-heavily-used-playing-lying-field-134747968.jpg",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 10,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://cricketworld.co.in/wp-content/uploads/2021/02/CW_IBP_16-4-600x600.jpg",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 11,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/NK/ZI/IZ/108103672/neon-cricket-leather-ball-500x500.jpeg",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 12,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://media.istockphoto.com/id/1158552843/vector/cricket-leather-ball-icon-vector.jpg?s=1024x1024&w=is&k=20&c=gMxJrZCxbDTokgBhQEqNHudPRlO1H2teXfxUYYPIDO8=",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 13,
+      "title": "Leather-Ball",
+      "description": "best ball product",
+      "rating": 4,
+      "image": "https://bestcricketstore.com/wp-content/uploads/2023/02/8253882f-7e19-4fc9-9a4d-0346cc1c2d27.jpeg",
+      "category": "cricket-ball",
+      "price": "$30"
+    },
+    {
+      "id": 14,
+      "title": "Helmet",
+      "description": "High resolution image of blue cricket .",
+      "ratings": 4,
+      "image": "https://media.istockphoto.com/id/1091418738/vector/sports-gaming-headgear-cricket-helmet-baseball-rugby-quick-team-game.jpg?s=612x612&w=0&k=20&c=lQOtBiQ7pVK95MvmL2d7v2wh-3tQTz7oQS7L6Sv-eQ0=",
+      "category": "cricket-helmet",
+      "price": "$45"
+    },
+    {
+      "id": 15,
+      "title": "Helmet",
+      "description": "Cricket Helmet and ball. Isolated .",
+      "rating": 4,
+      "image": "https://media.istockphoto.com/id/157293770/photo/cricket-helmet.jpg?s=612x612&w=0&k=20&c=NHjgGqTGOp8LhHHXyv9wfrT6I2YPDNDwpBmH7zFCP-k=",
+      "category": "cricket-helmet",
+      "price": "$45"
+    },
+    {
+      "id": 3,
+      "title": "stumps",
+      "description": "Natural look and durability and long life Wicket . ",
+      "rating": 4,
+      "image": "https://m.media-amazon.com/images/I/71QYuSouOmL._SX425_.jpg",
+      "category": "",
+      "price": "$20"
+    },
+    {
+      "id": 3,
+      "title": "stumps",
+      "description": "Wicket set plastic with 3 wickets , 2 bails   .",
+      "rating": 4,
+      "image": "https://m.media-amazon.com/images/I/51N-H9sREtS._SY606_.jpg",
+      "category": "",
+      "price": "$20"
+    },
+    {
+      "id": 3,
+      "title": "stumps",
+      "description": "High quality textured Cricket Stump ready to .",
+      "rating": 4,
+      "image": "https://www.renderhub.com/3dshop/cricket-stump/cricket-stump-01.jpg",
+      "category": "",
+      "price": "$20"
+    },
+    {
+      "id": 3,
+      "title": "stumps",
+      "description": "Brand: SS. Product Type: Cricket Stumps. Stumps Material. ",
+      "rating": 4,
+      "image": "https://www.sportsuncle.com/image/cache/catalog/images/ss/led-stumps-1200x1200.webp",
+      "category": "",
+      "price": "$20"
+    },
+    {
+      "id": 4,
+      "title": "pads",
+      "description": "Material Upper: high quality PU based Upper material .",
+      "ratings": 5,
+      "image": "https://rukminim1.flixcart.com/image/416/416/kuwzssw0/guard/k/6/n/right-hand-men-s-tj-royal-blue-batting-pads-1-na-cricket-guard-original-imag7xk8ysr74vfm.jpeg?q=70",
+      "category": "cricket-pads",
+      "price": "$40"
+    },
+    {
+      "id": 4,
+      "title": "pads",
+      "description": "Leg Guard Material Rmax is filled with mesh fabric . ",
+      "ratings": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PdX2l6lnDDlmXFWx5D62cmCxBXceDRlZmQ&usqp=CAU",
+      "category": "cricket-pads",
+      "price": "$40"
+    },
+    {
+      "id": 4,
+      "title": "bats",
+      "description": "Weight: 1160 -1200 gm (Mens), Handle: Short Handle. ",
+      "ratings": 4,
+      "image": "https://cdnmedia.dsc-cricket.com/media/catalog/product/cache/f6804705d3c9b06dccd038949280b6b0/r/o/rory-burns-cricket-bat_1.jpg",
+      "category": "cricket-bat",
+      "price": "$30"
+    },
+    {
+      "id": 4,
+      "title": "bats",
+      "description": "Made of fiber/PVC material. This is not a wooden bat. ",
+      "ratings": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0424/7915/7400/products/Allproductslistingimages_20_2000x.png?v=1618267221",
+      "category": "cricket-bat",
+      "price": "$30"
+    },
+    {
+      "id": 4,
+      "title": "bats",
+      "description": "Finest Kashmir willow hard pressed & traditionally shaped. ",
+      "ratings": 4,
+      "image": "https://shop.teamsg.in/wp-content/uploads/2020/09/SCORER-CLASSIC_3-scaled-600x600.jpg",
+      "category": "cricket-bat",
+      "price": "$30"
+    },
+    {
+      "id": 4,
+      "title": "bats",
+      "description": "LJD Hard Tennis Cricket Bat for Players for Hard Tennis Balls .",
+      "ratings": 4,
+      "image": "https://i0.wp.com/www.ljdsports.com/wp-content/uploads/2022/08/hard-tennis-cricket-bats.jpg?fit=2000%2C2000&ssl=1",
+      "category": "cricket-bat",
+      "price": "$30"
+    },
+    {
+      "id": 4,
+      "title": "bats",
+      "description": "Ceat Mega Gripp English willow cricket bat having a flat face  .",
+      "ratings": 4,
+      "image": "https://www.sportsuncle.com/image/cache/catalog/images/ceat/mega_gripp_english_willow_cricket_bat-1200x1200.webp",
+      "category": "cricket-bat",
+      "price": "$30"
+    },
+    {
+      "id": 5,
+      "title": "gloves",
+      "description": "Multi-Flex Pre-curved Construction | Strategically positioned Fle ",
+      "rating": 4,
+      "image": "https://gmcricket.in/media/catalog/product/cache/757ea7d2b7282843694bdb6de7a23598/d/i/diamond-909-batting-gloves_4.jpg",
+      "category": "",
+      "price": "$30"
+    },
+    {
+      "id": 11,
+      "title": "shoes",
+      "description": "Multi-Flex Pre-curved Construction | Strategically positioned Flex Ps ",
+      "ratings": 4,
+      "image": "https://gmcricket.in/media/catalog/product/cache/757ea7d2b7282843694bdb6de7a23598/d/i/diamond-909-batting-gloves_4.jpg",
+      "category": "cricket-shoes",
+      "price": "$30"
+    },
+    {
+      "id": 11,
+      "title": "shoes",
+      "description": "Lightweight upper: Punched synthetic leather and breathable .",
+      "ratings": 0,
+      "image": "https://cdnmedia.dsc-cricket.com/media/catalog/product/cache/6d9f53a3f26f3a62c1c1c9add7c6ad94/j/a/jaffa-22-white-orange-cricket-shoes_2.jpg",
+      "category": "cricket-shoes",
+      "price": "$30"
+    },
+    {
+      "id": 11,
+      "title": "shoes",
+      "description": "Durable Upper Construction The non-stitch upper .",
+      "ratings": 0,
+      "image": "https://cdn.shopify.com/s/files/1/1390/1485/products/WhatsAppImage2022-11-16at1.34.16PM_1024x1024.jpg?v=1668862503",
+      "category": "cricket-shoes",
+      "price": "$30"
+    },
+    {
+      "id": 11,
+      "title": "shoes",
+      "description": "Product Dimensions  : 33.5 x 21 x 13.5 cm; 950 Grams, Item model .",
+      "ratings": 0,
+      "image": "https://m.media-amazon.com/images/I/61KTUHrdO9L._SL1500_.jpg",
+      "category": "cricket-shoes",
+      "price": "$30"
+    }
+  ]
+  
+}
